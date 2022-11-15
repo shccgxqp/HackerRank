@@ -12,6 +12,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 import sys
 
+
 t = int(input().strip())
 for a0 in range(t):
     n = int(input().strip())
