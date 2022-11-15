@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/nested-list/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 """

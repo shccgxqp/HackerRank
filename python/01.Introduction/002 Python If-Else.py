@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/py-if-else/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 Given an integer, n , perform the following conditional actions:

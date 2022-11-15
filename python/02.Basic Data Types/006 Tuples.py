@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 """

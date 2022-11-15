@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 Given an integer, n , perform the following conditional actions:

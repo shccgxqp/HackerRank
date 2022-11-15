@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 """

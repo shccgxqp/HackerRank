@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/python-loops/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 """

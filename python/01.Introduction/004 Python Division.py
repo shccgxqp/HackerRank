@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/python-division/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 The provided code stub reads two integers, a and b, from STDIN.

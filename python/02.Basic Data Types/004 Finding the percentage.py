@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/finding-the-percentage/problem
-Difficul : tyEasy
+Difficulty : Easy
 Max Score : 5
 
 """

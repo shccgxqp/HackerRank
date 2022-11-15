@@ -1,6 +1,6 @@
 """
 Question : https://www.hackerrank.com/challenges/write-a-function/problem
-Difficul : Medium
+Difficulty : Medium
 Max Score : 10
 
 """
