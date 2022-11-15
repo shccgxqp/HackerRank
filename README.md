@@ -1,1 +1,1 @@
-# Codewars
+# Hackerrank
