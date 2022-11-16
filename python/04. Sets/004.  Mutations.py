@@ -1,7 +1,0 @@
-"""
-Question : 
-Difficulty : 
-Max Score : 
-
-"""
-

@@ -19,9 +19,9 @@ mkdirs={
     '011. Alphabet Rangoli', '012. Capitalize!', '013. The Minion Game', '014. Merge the Tools'   
     ],
     '04. Sets' : [
-    '001. Introduct to Sets', '002. String Split and Join', "003. What's Your Name", '004.  Mutations', '005.  find-a-string',
-    '006.  String Validators', '007.  Text Alignment', '008.  Text Wrap', '009.  Designer Door', '010.  String Formatting',
-    '011.  Alphabet Rangoli', '012.  Capitalize!', '013.  The Minion Game', '014.  Merge the Tools'
+    '001. Introduct to Sets', '002. No Idea!', "003. Symmetric Difference", '004. Set add()', '005. Set discard(), remove() & pop()',
+    '006. Set union() Operation', '007. Set intersection() Operation', '008. Set difference() Operation', '009. Set symmetric_difference() Operation', '010. Set Mutations',
+    "011. The Captain's Room", '012. Check Subset', '013. Check Strict Superset'
     ],
     '05. Math' : [
     '001. Polar Coordinates', '002. Find Angle MBC','003. Triangle Quest 2','004. Mod Divmod','005. Power - Mod Power',
