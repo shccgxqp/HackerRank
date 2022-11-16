@@ -52,33 +52,37 @@ mkdirs={
     '001. Map and Lambda Function', '002. Validating Email Addresses With a Filter', '003. Reduce Function'
     ],
     '13. Regex and Parsing' : [
-
+    '001. Detect Floating Point Number', '002. Re.split()', '003. Group(), Groups() & Groupdict()', '004. Re.findall() & Re.finditer()', '005. Re.start() & Re.end()',
+    '006. Regex Substitution', '007. Validating Roman Numerals', '008. Validating phone numbers', '009. Validating and Parsing Email Addresses', '010. Hex Color Code',
+    '011. HTML Parser - Part 1', '012. HTML Parser - Part 2', '013. Detect HTML Tags, Attributes and Attribute Values', '014. Validating UID', '015. Validating Credit Card Numbers',
+    '016. Validating Postal Codes', '017. Matrix Script'
     ],
     '14. XML' : [
-
+    '001. XML 1 - Find the Score', '002. XML2 - Find the Maximum Depth'
     ],
     '15. Closures and Decorators' : [
-
+    '001. Standardize Mobile Number Using Decorators', '002. Decorators 2 - Name Directory'
     ], 
     '16. Numpy' : [
-
+    '001. Mean, Var, and Std', '002. Dot and Cross', '003. Inner and Outer', '004. Polynomials', '005. Linear Algebra',
+    '006. Shape and Reshape', '007. Arrays', '008. Transpose and Flatten', '009. Concatenate', '010. Zeros and Ones',
+    '011. Eye and Identity', '012. Array Mathematics', '013. Floor, Ceil and Rint', '014. Sum and Prod', '015. Min and Max'
     ],
     '17. Debugging':[
-
+    '001. Words Score', '002. Default Arguments'
     ]
 }
-
-
 
 def createPy (mkdirName, Listspy):
     for pyname in Listspy:
         if os.path.isfile(my_path + mkdirName +'/'+ pyname+'.py') :
-            print('   "'+ pyname + '"  OK.')
+            print('   "'+ pyname + '" OK.')
         else:
             shutil.copyfile(my_path + 'model.py ', my_path + mkdirName + '/' +  pyname+'.py')
-            print('    Create  "'+ pyname +' .py"   Success.')
+            print('    Create "'+ pyname +' .py" Success.')
 
-
+def editPy (mkdirName,index , question):
+    return 
 
 
 if __name__ == '__main__':
@@ -88,9 +92,9 @@ if __name__ == '__main__':
 
     for mkdir in mkdirs.keys():
         if ( os.path.exists(my_path+ mkdir)) :
-            print(mkdir +' : OK.')
+            print(mkdir +' OK.')
             createPy(mkdir,mkdirs[mkdir])
 
         else :
             os.mkdir(my_path + mkdir)
-            print('    Create  "'+ mkdir +' "   Success.')
+            print('    Create "'+ mkdir +' " Success.')
