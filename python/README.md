@@ -121,16 +121,27 @@
 
 |No.|Name|Problem|Solution|score|Note|
 |---|----|-------|--------|-----|----|
+| 001 | Dealing with Complex Numbers | [Problem](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [Solution] | Score: 20 |
+| 002 | Find the Torsional Angle | [Problem](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [Solution]| Score: 20 |
 
 ### 11. Built-Ins
 
 |No.|Name|Problem|Solution|score|Note|
 |---|----|-------|--------|-----|----|
+| 001 | Zipped! | [Problem](https://www.hackerrank.com/challenges/zipped/problem) | [Solution] | Score: 10 |
+| 002 | Input() | [Problem](https://www.hackerrank.com/challenges/input/problem) | [Solution] | Score: 20 |
+| 003 | Python Evaluation | [Problem](https://www.hackerrank.com/challenges/python-eval/problem) | [Solution] | Score: 20 |
+| 004 | Athlete Sort | [Problem](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [Solution] | Score: 30 |
+| 005 | Any or All | [Problem](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true) | [Solution] | Score: 20 |
+| 006 | ginortS | [Problem](https://www.hackerrank.com/challenges/ginorts/problem) | [Solution] | Score: 40 |
 
 ### 12. Python Functionals 
 
 |No.|Name|Problem|Solution|score|Note|
 |---|----|-------|--------|-----|----|
+| 001 | Map and Lambda Function | [Problem](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [Solution] | Score: 20 |
+| 002 | Validating Email Addresses With a Filter | [Problem](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [Solution] | Score: 20 |
+| 003 | Reduce Function | [Problem](https://www.hackerrank.com/challenges/reduce-function/problem) | [Solution] | Score: 30 |
 
 ### 13. Regex and Parsing
 
